@@ -1,0 +1,144 @@
+.body{
+    background: url(wallpaperbetter.com_1280x1024.jpg) no-repeat center center fixed;
+
+background-size: cover;
+
+}
+.menu{
+    background-color: #F0F8FF;
+    width: 400px;
+    height: 350px;
+    position: relative;
+    margin: auto;
+    margin-top: 200px;
+    border: 2px solid black;
+    box-shadow: 3px 3px 4px #000;
+    opacity:0;
+
+    
+
+}
+.login{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 25%;
+
+    
+   
+
+
+
+ 
+
+    
+}
+.UserName{
+   width: 80%;
+   height: 10%;
+   font-size: 20px;
+   background-color:#F0FFFF;   
+    text-align: left;
+    position: absolute;
+    top: 38%;
+    left: 10%;
+}
+.pass{
+    width: 80%;
+    height: 10%;
+    font-size: 20px;
+    background-color:#F0FFFF;   
+     text-align: left;
+     position: absolute;
+     top: 53%;
+     left: 10%;
+}
+.Sing{
+    position: absolute;
+    font-size: 18px;
+    width: 83%;
+    height: 40px;
+    background-color: #32CD32;
+    border: 2px solid 	#32CD32;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    top: 73%;
+    left: 10%;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.Sing:hover{
+    
+    background-color: white;
+    transition: all 0.60s ease;
+    color: black;
+  }
+.kilit{
+    width: 70px;
+    height: 70px;
+    position: absolute; 
+    left: 42%;
+  
+
+  }
+  .kilit:hover{
+    width: 75px;
+    height: 75px;
+  }
+  .gir{
+    width: 75px;
+    height: 75px;
+  }
+  .div1{
+    background: #fff8dc;
+    width: 100px;
+    height: 100px;
+    bottom: 90%;
+    border-radius: 50%;
+    position: absolute;
+    opacity: 0.5;
+
+}
+.div2{
+    background: 	#b0e0e6;
+    width: 100px;
+    height: 100px;
+    bottom: 90%;
+    border-radius: 50%;
+    position: absolute;
+    opacity: 0.5;
+  
+    
+
+}
+.div3{
+    background: #f0e68c;
+    width: 100px;
+    height: 100px;
+    bottom: 90%;
+    border-radius: 50%;
+    position: absolute;
+    opacity: 0.5;
+   
+
+ 
+
+}
+
+  
+  /*.ustmenu{
+    position: absolute;
+      background-color: black;
+      width: 1920px;
+      height: 90px;
+      right:-760px;
+      
+      margin: auto;
+      
+
+      bottom: 140%;
+  }*/
+
